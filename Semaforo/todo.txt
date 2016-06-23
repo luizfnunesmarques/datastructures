@@ -1,0 +1,3 @@
+Fix
+
+contar quantos carros sairam

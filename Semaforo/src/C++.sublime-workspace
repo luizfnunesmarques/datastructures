@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"erro",
+				"ERROTAMNAODEFINIDO"
+			],
+			[
+				"nma",
+				"nTamPilha"
+			],
+			[
+				"ojb",
+				"objRetirado"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"fila",
+				"filaCheia"
+			],
+			[
+				"def",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"table",
+				"table	Tag"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"inp",
+				"input	input - text"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"contato",
+				"contatoFactory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Sistema.hpp",
+			"settings":
+			{
+				"buffer_size": 4621,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/DropBox/Dropbox/Sources/C++/Semaforo2/src/Pista/Fonte.hpp",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Eventos/EventoSemaforo.hpp",
+			"settings":
+			{
+				"buffer_size": 2004,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/luizCPP.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"package	install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/DropBox/Dropbox/Sources/C++/Semaforo/src/Pista/Fonte.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/Semaforo2/Fonte.rar",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/src/Fila.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ArvPercurso/.cproject",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/Traffic lights simulator/Linked/ListaEnc.hpp",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR17.296/PonteiroVoid/src/PonteiroVoid.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/Traffic lights simulator/ExcecaoSinalVermelho.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/Semaforo/.settings/org.eclipse.cdt.core.prefs",
+		"/E/DropBox/Dropbox/Sources/C++/ListaEncadeada/src/main.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/Traffic lights simulator/Sistema.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ArvPercurso/.settings/org.eclipse.cdt.managedbuilder.core.prefs",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/README.md",
+		"/E/DropBox/Dropbox/Sources/C++/Semaforo/src/Relogio.hpp",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/BrowserBookmarks/Default (Windows).sublime-keymap",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/Traffic lights simulator/Carro.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/Binary tree/NoBinario.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/Zambonin/UFSC-INE5408-master/AVL tree/NoAVL.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCircularDupla/src/testeduplo",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCircularDupla/src/ListaCircularDupla.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaEncadCirc/ListaCirc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCicular/src/TesteCircular",
+		"/E/DropBox/Dropbox/Sources/C++/ListaEncadCirc/ListaEnc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/googleStyleGuide.xml",
+		"/E/DropBox/Dropbox/Sources/C++/PilhaEncadeda/src/PilhaEnc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/TesteListaDupla/src/ListaDupla.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/TesteListaDupla/src/Elemento.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaEncadeada/src/ListaEnc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/PilhaEncadeda/src/ListaEnc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/PilhaEncadeda/src/PilhaEncadeada.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCirc/src/ListaCirc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCirc/src/ListaEnc.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCirc/.settings/org.eclipse.cdt.core.prefs",
+		"/E/DropBox/Dropbox/Sources/C++/ListaCirc/src/TestListaCirc.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/src/PilhaDrop.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/ArvPercurso/src/ArvPercurso.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/FilaAntigo/Pilha.h",
+		"/E/DropBox/Dropbox/Sources/C++/src/Pilha.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/src/PilhaDrop.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/src/Fila.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/FilaAntigo/Main.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/FilaAntigo/Pilha.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/src/Pilha.hpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/.settings/org.eclipse.cdt.managedbuilder.core.prefs",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/src/main.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/.settings/org.eclipse.cdt.managedbuilder.core.prefs",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/.project",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/.cproject",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/C++11/messages/install.txt",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/C++ Snippets/reference.md",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/DoxyDoc/DoxyDoc.sublime-settings",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/User/DoxyDoc.sublime-settings",
+		"/E/DropBox/Dropbox/Sources/C++/Fila/Fila.hpp",
+		"/E/DropBox/Dropbox/sources/c++/filaantigo/Main.cpp",
+		"/E/DropBox/Dropbox/sources/c++/filaantigo/Pilha.h",
+		"/E/DropBox/Dropbox/sources/c++/filaantigo/Pilha.cpp",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR53.016/Pilha.cpp",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR73.832/Pilha.h",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR48.904/Pilha.h",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR48.904/Main.cpp",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR48.904/Pilha.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/pilha3/src/Pilha.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/pilha3/src/Pilha.h",
+		"/E/DropBox/Dropbox/Sources/C++/pilha3/src/Pilha3.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/pilha.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/Main.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/Pilha.h",
+		"/E/DropBox/Dropbox/Sources/C++/Pilha/Makefile",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/User/luizCPP.sublime-build",
+		"/E/DropBox/Dropbox/Sources/C++/Fila1/Fila.cpp",
+		"/E/DropBox/Dropbox/Sources/C++/Fila1/Fila.h",
+		"/C/Users/LuizF/AppData/Local/Temp/Rar$DR25.816/Pilha.hpp",
+		"/E/DropBox/Dropbox/Sources/Angular/pedidos.html",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/E/DropBox/Dropbox/Sources/Angular/curso2.html",
+		"/C/Users/LuizF/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eventos",
+			"pistas",
+			"circ",
+			"tempoChegada",
+			"~",
+			"tempoCriacaoPos",
+			"adicionaCarro",
+			"pistas",
+			"mostra",
+			"pistas",
+			"gerarEventosCarro",
+			"tempoSemaforo",
+			"calculeProximoEvento",
+			"tempoCriacaoPos",
+			"_intervaloCriacao",
+			"executarCarroChegouNoSemaforo",
+			"probabilidades",
+			"listaEventos",
+			"ListaDeEventos",
+			"ListaEnc()",
+			"ListaEnc",
+			"pegarcabeca",
+			"cabeca",
+			"head =",
+			"head =7",
+			"head =",
+			"ball possession",
+			"adicionaNaPosicao",
+			"igual",
+			"posicao",
+			"head =",
+			"NULL",
+			"igual",
+			"ordem",
+			"ListaEnc()",
+			"adicionaNoInicio",
+			"igual",
+			"= new",
+			"new",
+			"items",
+			"items =",
+			"items",
+			"inicializafila",
+			"inser",
+			"InicializaFila",
+			"inicializaFila",
+			"nTopo",
+			"nTamPilha",
+			"function",
+			"items",
+			"PILHA_H_",
+			"ifndef",
+			"main",
+			"form",
+			"format"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Sistema.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1474,
+								1474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/DropBox/Dropbox/Sources/C++/Semaforo2/src/Pista/Fonte.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 163.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Eventos/EventoSemaforo.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "C++.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fonte",
+				"Semaforo2\\src\\Pista\\Fonte.hpp"
+			],
+			[
+				"",
+				"ArvPercurso\\.cproject"
+			],
+			[
+				"teste",
+				"ListaCicular\\src\\TesteCircular"
+			],
+			[
+				"listaci",
+				"ListaCirc\\src\\ListaCirc.hpp"
+			],
+			[
+				"listaenc",
+				"ListaCirc\\src\\ListaEnc.hpp"
+			],
+			[
+				"pilha",
+				"Pilha\\src\\Pilha.hpp"
+			],
+			[
+				"main",
+				"Pilha\\src\\main.cpp"
+			],
+			[
+				"fila",
+				"Fila\\src\\Fila.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\DropBox\\Dropbox\\Sources\\C++\\Semaforo\\src\\C++.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
